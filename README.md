@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @choices97
+- 👋 Hi, I’m Eunsung Choi
 - 👀 I’m interested in coding, AI, optimization, swimming
 - 🌱 I’m currently learning python, estimation theory, MATLAB
 - 💞️ I’m looking to collaborate on stocks, games
