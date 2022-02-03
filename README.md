@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eunsung Choi
-- 👀 I’m interested in coding, AI, optimization, swimming
-- 🌱 I’m currently learning python, estimation theory, MATLAB
-- 💞️ I’m looking to collaborate on stocks, games
+- 👀 I’m interested in wireless communications, coding, machine learning, swimming
+- 🌱 I’m currently learning python, estimation theory
+- 💞️ I’m looking to collaborate on stocks
 - 📫 How to reach me : eunsungchoi@unist.ac.kr
